@@ -1,4 +1,1 @@
-# Explore_React-Class_Components
--------
-
-Author: Md Sohan Hossain.
+# Explore: React Class Components.
